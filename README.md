@@ -28,4 +28,5 @@
 
 <img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/9a3b7653-cdab-444e-98bd-83893815688f" />
 
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/c8f7360e-5721-4705-aacf-aec638d3387d" />
 
