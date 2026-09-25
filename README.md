@@ -30,3 +30,4 @@
 
 <img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/c8f7360e-5721-4705-aacf-aec638d3387d" />
 
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/0cf1958c-b574-4137-8720-91c3f20b55ac" />
